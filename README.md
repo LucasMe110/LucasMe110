@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+#### Oi
+Meu nome eh Lucas Mello
+Busco oportunidades desafiadoras no campo do desenvolvimento de software, com preferência pelo back-end, mas aberto também ao front-end, também gostaria de iniciar em ciência de dados. Gosto de tarefas desafiadoras que estimulem a criatividade pela e a criação de soluções inovadoras e eficientes. 
+
