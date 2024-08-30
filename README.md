@@ -23,7 +23,7 @@
     - Technical support
     - Cloud service management
 
-## Principais Linguagens e Tecnologias
+## Key Languages and Technologies
 - Python: SQLAlchemy, Flask, Pandas, Django, among others
 - JavaScript: Node.js
 - Frontend: HTML, CSS, React.js, Bootstrap
@@ -37,7 +37,7 @@
 
 ## Contact
 - Email: lucasmellomo@gmail.com
--Phone: +55 (48) 98802-7807
+- Phone: +55 (48) 98802-7807
 
 
 # Português
