@@ -5,7 +5,7 @@
 - DoB: 02/26/2005
 
 ## Education
-- Degree: Systems Analysis and Development - UNICESUSC (Final semester)
+- Degree: **Systems Analysis and Development** - UNICESUSC (Final semester)
 
 ## Start in Programming
 
@@ -24,12 +24,12 @@
     - Cloud service management
 
 ## Key Languages and Technologies
-- Python: SQLAlchemy, Flask, Pandas, Django, among others
-- JavaScript: Node.js
-- Frontend: HTML, CSS, React.js, Bootstrap
-- Databases: SQL, MongoDB
-- Other Languages: R, Golang, C#
-- Version Control: GIT
+- ```Python```: SQLAlchemy, Flask, Pandas, Django, among others
+- ```JavaScript```: Node.js
+- ```Frontend```: HTML, CSS, React.js, Bootstrap
+- ```Databases```: SQL, MongoDB
+- ```Other Languages```: R, Golang, C#
+- ```Version Control```: GIT
 
 ## Professional Objectives
 - Interested in working in development, with a focus on back-end.
@@ -46,7 +46,7 @@
 - Nacimento: 26/02/2005
 
 ## Formação
-- Graduação: Análise e Desenvolvimento de Sistemas - UNICESUSC (Último semestre)
+- Graduação: **Análise e Desenvolvimento de Sistemas** - UNICESUSC (Último semestre)
 
 ## Início na Programação
 
@@ -65,12 +65,12 @@
     - Gerenciamento de serviços em nuvem
 
 ## Principais Linguagens e Tecnologias
-- Python: SQLAlchemy, Flask, Pandas, Django, entre outras.
-- JavaScript: Node.js
-- Frontend: HTML, CSS, React.js, Bootstrap
-- Banco de Dados: SQL, MongoDB
-- Outras Linguagens: R, Golang, C#
-- Versionamento: GIT
+- ```Python```: SQLAlchemy, Flask, Pandas, Django, among others
+- ```JavaScript```: Node.js
+- ```Frontend```: HTML, CSS, React.js, Bootstrap
+- ```Databases```: SQL, MongoDB
+- ```Other Languages```: R, Golang, C#
+- ```Version Control```: GIT
 
 ## Objetivos Profissionais
 - Interesse em atuar na área de desenvolvimento, com foco em back-end.
