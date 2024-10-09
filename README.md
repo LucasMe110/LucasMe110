@@ -1,81 +1,61 @@
-# Lucas Mello Muller de Oliveira
-## English
-## About Me
-- Hometown: Florianópolis, Santa Catarina, Brazil
-- DoB: 02/26/2005
+<h1 align="left">Hi, My name is Lucas Mello 🖐️</h1>
 
-## Education
-- Degree: **Systems Analysis and Development** - UNICESUSC (Final semester)
+###
 
-## Start in Programming
+<p align="left">🔭 I’m currently working on Sinergia<br>🌱 I work with web scraping automation and BI✨...<br>🎯 Goals: My goal is to grow in my backend career</p>
 
-- Began programming at the age of 12.
-- Attended the IDOCODE course for young people for 3 years.
+###
 
-## Professional Experience
-- Company: Sinergia
-- Start Date: February 2023
-- Ocuppation: Intern 
-- Responsibilities:
-    - Development of automations for audiovisual content creation
-    - Web scraping
-    - Application of regular expressions (regex)
-    - Technical support
-    - Cloud service management
+<h2 align="left">About me:</h2>
 
-## Key Languages and Technologies
-- ```Python```: SQLAlchemy, Flask, Pandas, Django, among others
-- ```JavaScript```: Node.js
-- ```Frontend```: HTML, CSS, React.js, Bootstrap
-- ```Databases```: SQL, MongoDB
-- ```Other Languages```: R, Golang, C#
-- ```Version Control```: GIT
+###
 
-## Professional Objectives
-- Interested in working in development, with a focus on back-end.
-- Passionate about data science.
+<h2 align="left">Technologies I use in my day:</h2>
 
-## Contact
-- Email: lucasmellomo@gmail.com
-- Phone: +55 (48) 98802-7807
+###
 
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=for-the-badge" height="40" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white&style=for-the-badge" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white&style=for-the-badge" height="40" alt="r logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?logo=amazonaws&logoColor=white&style=for-the-badge" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white&style=for-the-badge" height="40" alt="go logo"  />
+</div>
 
-# Português
-## Sobre Mim
-- Naturalidade: Florianópolis, Santa Catarina
-- Nacimento: 26/02/2005
+###
 
-## Formação
-- Graduação: **Análise e Desenvolvimento de Sistemas** - UNICESUSC (Último semestre)
+<h2 align="left">Contact:</h2>
 
-## Início na Programação
+###
 
-- Comecei na área de programação aos 12 anos.
-- Participei do curso IDOCODE para jovens, com duração de 3 anos.
+<div align="left">
+  <a href="https://www.linkedin.com/in/lucas-mello-muller-de-oliveira-5a0b24225/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://wa.me/5548988027807" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
+  </a>
+  <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=lucasmellomo@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+</div>
 
-## Experiência Profissional
-- Empresa: Sinergia
-- Início: Fevereiro de 2023
-- Cargo: Estagiário 
-- Responsabilidades:
-    - Desenvolvimento de automações para criação de conteúdos audiovisuais
-    - Realização de web scraping
-    - Aplicação de expressões regulares (regex)
-    - Suporte técnico
-    - Gerenciamento de serviços em nuvem
-
-## Principais Linguagens e Tecnologias
-- ```Python```: SQLAlchemy, Flask, Pandas, Django, among others
-- ```JavaScript```: Node.js
-- ```Frontend```: HTML, CSS, React.js, Bootstrap
-- ```Databases```: SQL, MongoDB
-- ```Other Languages```: R, Golang, C#
-- ```Version Control```: GIT
-
-## Objetivos Profissionais
-- Interesse em atuar na área de desenvolvimento, com foco em back-end.
-- Paixão por ciência de dados.
-
-## Contato
-- E-mail: lucasmellomo@gmail.com
-- Telefone: +55 (48) 98802-7807
+###
