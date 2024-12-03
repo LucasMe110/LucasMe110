@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">🔭 I’m currently working on Sinergia<br>🌱 I work with web scraping automation and BI✨...<br>🎯 Goals: My goal is to grow in my backend career</p>
+<p align="left">🔭 I’m currently working on Sinergia<br>🌱 I work with web scraping automation and BI✨...<br>🎯 Goals: My goal is to grow in my backend career<br>🎓I have a degree in Systems Development Analysis</p>
 
 ###
 
