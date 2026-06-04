@@ -64,6 +64,51 @@ lucas = {
 
 ---
 
+## Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/LucasMe110/dur-distributed-transactions">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=dur-distributed-transactions&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+<a href="https://github.com/LucasMe110/IA-tireoide-deep-learning">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=IA-tireoide-deep-learning&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+
+<a href="https://github.com/LucasMe110/IA-cat-vs-noncat-image-classifier">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=IA-cat-vs-noncat-image-classifier&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+<a href="https://github.com/LucasMe110/RCA-Mix-uottawa">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=RCA-Mix-uottawa&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+
+<a href="https://github.com/LucasMe110/BI-Data-Visualization">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=BI-Data-Visualization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+<a href="https://github.com/LucasMe110/youtube-to-mp3">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LucasMe110&repo=youtube-to-mp3&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=e94560&text_color=a8b2d8&icon_color=e94560" />
+</a>
+
+</div>
+
+<details>
+<summary><b>Why these projects?</b></summary>
+
+<br/>
+
+| Project | Why it's worth a look |
+|---|---|
+| **dur-distributed-transactions** | Implementation of the DUR protocol with total ordering via sequencer, multi-replica support, version-conflict checks and fault tolerance — distributed systems end-to-end. |
+| **IA-tireoide-deep-learning** | Deep learning applied to thyroid disease prediction (UCI dataset). Focus on minority-class performance — UFSC Master's research in Connectionist AI. |
+| **IA-cat-vs-noncat-image-classifier** | Side-by-side comparison of Perceptron, MLP and CNN on 64x64 RGB. CNN reaches 80% accuracy while simpler models fail — with the full experimental report. |
+| **RCA-Mix-uottawa** | Recycled Concrete Aggregates mix calculator built in partnership with the University of Ottawa's Structural Engineering Department. Three calculation modes (EMV, EMV-MOD, EV). |
+| **BI-Data-Visualization** | Business Intelligence toolkit: data cleaning, sales analysis, churn, employee performance and interactive styled charts. Aligned with my day-to-day as Data Analyst. |
+| **youtube-to-mp3** | Lightweight Python downloader that converts YouTube videos to MP3 without FFmpeg — single dependency (yt-dlp), auto-saves to `/music`. |
+
+</details>
+
+---
+
 ## GitHub Stats
 
 <div align="center">
